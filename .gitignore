@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Справочник собирается из книг платформы у каждого пользователя и в репозиторий не входит
+/1c8-doc/INDEX.md
+/1c8-doc/global/
+/1c8-doc/collections/
+/1c8-doc/objects/
+/1c8-doc/applied/
+/1c8-doc/forms/
+/1c8-doc/forms-ordinary/
+/1c8-doc/enums/
+/1c8-doc/values/
+/1c8-doc/queries/
+/1c8-doc/admin/
+/1c8-doc/lang/
